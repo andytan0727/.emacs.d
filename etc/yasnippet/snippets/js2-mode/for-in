@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: for-in
+# key: foin
+# --
+for (let ${1:i} in ${2:object}) {
+  $0
+}

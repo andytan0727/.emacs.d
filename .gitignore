@@ -1,0 +1,6 @@
+.secret.el
+elpa/gnupg/*
+var/*
+server/*
+auto-save-list/*
+_custom.el~

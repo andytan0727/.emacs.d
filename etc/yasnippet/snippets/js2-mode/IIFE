@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: IIFE
+# key: ifun
+# --
+(function() {
+  $0
+})();

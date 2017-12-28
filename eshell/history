@@ -1,0 +1,2 @@
+./pun
+gcc -o ./pun ./pun.c

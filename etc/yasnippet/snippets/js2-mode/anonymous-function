@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: annonymous-function
+# key: fun
+# --
+function() {
+  $0
+}
